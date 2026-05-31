@@ -1,0 +1,12 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "mytest package for PoloniumOS",
+  "author": "Your Name",
+  "license": "MIT",
+  "arch": "x86_64",
+  "url": "https://github.com/yourname/mytest",
+  "depends": [],
+  "conflicts": [],
+  "sha256": "867e725a214fddf6936d561c36458263a63b61c7c73773fa7944554e7de621b3"
+}

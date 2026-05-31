@@ -1,0 +1,12 @@
+{
+  "name": "hello-polonium",
+  "version": "1.0.0",
+  "description": "Hello World demo package for PoloniumOS",
+  "author": "PoloniumOS Team",
+  "license": "MIT",
+  "arch": "any",
+  "url": "https://github.com/poloniumos/hello-polonium",
+  "depends": [],
+  "conflicts": [],
+  "sha256": "52fd2eff01b15d9e02121a6d158ad00fc4ca4651687a4406a87945b6587a41b6"
+}

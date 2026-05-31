@@ -1,0 +1,7 @@
+#!/bin/sh
+echo ""
+echo "  ╔══════════════════════════════╗"
+echo "  ║   Hello from PoloniumOS!     ║"
+echo "  ║   .ppkg packages work!       ║"
+echo "  ╚══════════════════════════════╝"
+echo ""
